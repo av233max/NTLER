@@ -1,0 +1,1 @@
+copy D:\Project_NTLEA\NTLEAD\objchk_wlh_x86\i386\NTLEA_MulLocEmuDrv_x86.sys \\192.168.1.168\e

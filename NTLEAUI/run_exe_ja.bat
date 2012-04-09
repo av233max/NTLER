@@ -1,0 +1,1 @@
+ntlealoader run "C:\Program Files\Windows NT\Accessories\wordpad.exe" L1041 C932

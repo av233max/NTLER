@@ -1,0 +1,15 @@
+TARGETNAME=NTLEA_MulLocEmuDrv_x86
+TARGETPATH=obj
+TARGETTYPE=DRIVER
+
+INCLUDES=..\inc
+
+MSC_WARNING_LEVEL=-W3 -WX
+
+SOURCES=init.c \
+        runtime.c \
+        nls.c \
+        dispatch.c \
+        global.c \
+        hook.c \
+        database.c
